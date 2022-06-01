@@ -1,4 +1,4 @@
-# human-prediction-project
+# Human-prediction
 Machine Learning project to recognise people from an Image just like facebook.
 
 The model has an accuracy of 99% on the Labeled Faces
@@ -17,6 +17,7 @@ Open-Cv
 
 # Result
 
+![](images/myimg.png)
 
 
 
